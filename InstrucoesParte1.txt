@@ -1,0 +1,16 @@
+lw 0 1 0
+lw 0 2 1
+lw 0 3 2
+noop
+add 2 1 2
+noop
+noop
+beq 2 0 16
+noop
+noop
+noop
+beq 0 0 5
+noop
+noop
+noop
+done
